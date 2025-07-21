@@ -30,3 +30,4 @@ C:\Repo\NETCORE\API\OptionPatternConfig\obj\Debug\net10.0\refint\OptionPatternCo
 C:\Repo\NETCORE\API\OptionPatternConfig\obj\Debug\net10.0\OptionPatternConfig.pdb
 C:\Repo\NETCORE\API\OptionPatternConfig\obj\Debug\net10.0\OptionPatternConfig.genruntimeconfig.cache
 C:\Repo\NETCORE\API\OptionPatternConfig\obj\Debug\net10.0\ref\OptionPatternConfig.dll
+C:\Repo\NETCORE\API\OptionPatternConfig\obj\Debug\net10.0\OptionPatternConfig.sourcelink.json
